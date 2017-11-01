@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
+synapes.json
+synapses_specific.json

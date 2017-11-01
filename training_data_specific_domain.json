@@ -1,0 +1,210 @@
+[
+    {
+        "class": "motorbike",
+        "sentence": "KTM is my favorite brand"
+    },
+    {
+        "class":"motorbike",
+        "sentence": "Motorcycle design varies greatly to suit a range of different purposes: long distance travel, commuting, cruising, sport including racing, and off-road riding."
+    },
+    {
+        "class":"motorbike",
+        "sentence": " Motorcycling is riding a motorcycle and related social activity such as joining a motorcycle club and attending motorcycle rallies."
+    },
+    {
+        "class":"motorbike",
+        "sentence": "Of all the motorcycles in the world, 58% are in the Asia-Pacific and Southern and Eastern Asia regions, excluding car-centric Japan."
+    },
+    {
+        "class":"motorbike",
+        "sentence": "Street bikes include cruisers, sportbikes, scooters and mopeds, and many other types. "
+    },
+    {
+        "class":"motorbike",
+        "sentence": "Off-road motorcycles include many types designed for dirt-oriented racing classes such as motocross and are not street legal in most areas."
+    },
+    {
+        "class": "motorbike",
+        "sentence": "I prefer Italian bike such as Ducati"
+    },
+    {
+        "class": "motorbike",
+        "sentence": "I love Ducati"
+    },
+    {
+        "class": "motorbike",
+        "sentence": "The Panigale is a nice ride!"
+    },
+    {
+        "class": "motorbike",
+        "sentence": "How do you ride?"
+    },
+    {
+        "class": "motorbike",
+        "sentence": "How do you drive?"
+    },
+    {
+        "class": "motorbike",
+        "sentence": "What is your favorite bike?"
+    },
+    {
+        "class": "motorbike",
+        "sentence": "Mine is a SMC 690."
+    },
+    {
+        "class": "motorbike",
+        "sentence": "I have a bike"
+    },
+    {
+        "class":"motorbike",
+        "sentence": "I would like to buy a two cylinder bike"
+    },
+    {
+        "class": "motorbike",
+        "sentence": "The 690smc is very fun"
+    },
+    {
+        "class": "motorbike",
+        "sentence": "KTM is the best"
+    },
+    {
+        "class": "motorbike",
+        "sentence": "There are two wheels on a motorbike"
+    },
+    {
+        "class": "engine",
+        "sentence": "Ducati has desmodromic valves"
+    },
+    {
+        "class": "engine",
+        "sentence": "What is a piston?"
+    },
+    {
+        "class": "engine",
+        "sentence": "What are valves?"
+    },
+    {
+        "class": "engine",
+        "sentence": "Not so long ago GP Racing was done on two-stroke engines"
+    },
+    {
+        "class": "engine",
+        "sentence": "Two stroke engines are so old fashion"
+    },
+    {
+        "class": "engine",
+        "sentence": "KTM and Aprilia have V4 blocks"
+    },
+    {
+        "class": "engine",
+        "sentence": "What is  an exhaust system,"
+    },
+    {
+        "class": "engine",
+        "sentence": "Turbo charger are fashionable again,"
+    },
+    {
+        "class": "engine",
+        "sentence": "How do you make a turbocharger?"
+    },
+    {
+        "class": "engine",
+        "sentence": "the valve being struck by the top of the rising piston."
+    },
+    {
+        "class": "engine",
+        "sentence": "How do have more horse power"
+    },
+    {
+        "class": "engine",
+        "sentence": " In addition, camshafts, push-rods, and valve rockers can be eliminated in a sleeve valve design."
+    },
+    {
+        "class": "engine",
+        "sentence": "Many bikes have four cylinders, but that is also true for cars"
+    },
+    {
+        "class": "engine",
+        "sentence": "What is the the block on the Ducati Monster?"
+    },
+    {
+        "class": "engine",
+        "sentence": "Ferrari is a very expensive, but I love the sound of its engine"
+    },
+    {
+        "class": "greeting",
+        "sentence": "how are you?"
+    },
+    {
+        "class": "greeting",
+        "sentence": "Hello!"
+    },
+    {
+        "class": "greeting",
+        "sentence": "how is your day?"
+    },
+    {
+        "class": "greeting",
+        "sentence": "good day"
+    },
+    {
+        "class": "greeting",
+        "sentence": "how is it going today?"
+    },
+    {
+        "class": "goodbye",
+        "sentence": "have a nice day"
+    },
+    {
+        "class": "goodbye",
+        "sentence": "see you later"
+    },
+    {
+        "class": "goodbye",
+        "sentence": "have a nice day"
+    },
+    {
+        "class": "goodbye",
+        "sentence": "talk to you soon"
+    },
+    {
+        "class": "goodbye",
+        "sentence": "Bye!"
+    },
+    {
+        "class": "food",
+        "sentence": "make me a sandwich"
+    },
+    {
+        "class": "food",
+        "sentence": "can you make a sandwich?"
+    },
+    {
+        "class": "food",
+        "sentence": "having a sandwich today?"
+    },
+    {
+        "class": "food",
+        "sentence": "what's for lunch"
+    },
+    {
+        "class": "food",
+        "sentence": "Today, I want to eat a pizza"
+    },
+    {
+        "class": "place",
+        "sentence": "Where do you eat?"
+    },
+    {
+        "class": "place",
+        "sentence": "I want to eat in the restaurant"
+    },
+    {
+        "class": "place",
+        "sentence": "I live in Switzerland"
+    },
+    {
+        "class": "place",
+        "sentence": "I am travelling to Denamark"
+    }
+]

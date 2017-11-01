@@ -1,0 +1,78 @@
+[
+    {
+        "class": "greeting",
+        "sentence": "how are you?"
+    },
+    {
+        "class": "greeting",
+        "sentence": "Hello!"
+    },
+    {
+        "class": "greeting",
+        "sentence": "how is your day?"
+    },
+    {
+        "class": "greeting",
+        "sentence": "good day"
+    },
+    {
+        "class": "greeting",
+        "sentence": "how is it going today?"
+    },
+    {
+        "class": "goodbye",
+        "sentence": "have a nice day"
+    },
+    {
+        "class": "goodbye",
+        "sentence": "see you later"
+    },
+    {
+        "class": "goodbye",
+        "sentence": "have a nice day"
+    },
+    {
+        "class": "goodbye",
+        "sentence": "talk to you soon"
+    },
+    {
+        "class": "goodbye",
+        "sentence": "Bye!"
+    },
+    {
+        "class": "food",
+        "sentence": "make me a sandwich"
+    },
+    {
+        "class": "food",
+        "sentence": "can you make a sandwich?"
+    },
+    {
+        "class": "food",
+        "sentence": "having a sandwich today?"
+    },
+    {
+        "class": "food",
+        "sentence": "what's for lunch"
+    },
+    {
+        "class": "food",
+        "sentence": "Today, I want to eat a pizza"
+    },
+    {
+        "class": "place",
+        "sentence": "Where do you eat?"
+    },
+    {
+        "class": "place",
+        "sentence": "I want to eat in the restaurant"
+    },
+    {
+        "class": "place",
+        "sentence": "I live in Switzerland"
+    },
+    {
+        "class": "place",
+        "sentence": "I am travelling to Denamark"
+    }
+]
