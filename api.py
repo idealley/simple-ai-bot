@@ -8,8 +8,8 @@ app = Flask(__name__)
 # ERROR_THRESHOLD = 0.2
 
 # load our calculated synapse values
-# synapse_file = 'synapses.json' 
-synapse_file = 'synapses_specific.json' 
+synapse_file = 'synapses.json' 
+# synapse_file = 'synapses_specific.json' 
 with open(synapse_file) as data_file: 
     synapse = json.load(data_file) 
     synapse_0 = np.asarray(synapse['synapse0']) 

@@ -9,8 +9,8 @@ nlp = spacy.load('en')
 
 # Loading training data
 training_data = []
-# training_data_file = 'training_data.json' 
-training_data_file = 'training_data_specific_domain.json' 
+training_data_file = 'training_data.json' 
+# training_data_file = 'training_data_specific_domain.json' 
 with open(training_data_file) as data_file: 
     training_data = json.load(data_file)
 
@@ -65,7 +65,7 @@ y = np.array(output)
 
 start_time = time.time()
 
-train(X, y, classes, words, hidden_neurons=40, alpha=0.05, epochs=200000, dropout=False, dropout_percent=0.2)
+train(X, y, classes, words, hidden_neurons=20, alpha=0.1, epochs=200000, dropout=False, dropout_percent=0.2)
 
 elapsed_time = time.time() - start_time
 print ("processing time:", elapsed_time, "seconds")

@@ -75,8 +75,8 @@ def train(X, y, classes, words, hidden_neurons=10, alpha=1, epochs=50000, dropou
                'words': words,
                'classes': classes
               }
-    #synapse_file = "synapses.json"
-    synapse_file = "synapses_specific.json"
+    synapse_file = "synapses.json"
+    # synapse_file = "synapses_specific.json"
 
     with open(synapse_file, 'w') as outfile:
         json.dump(synapse, outfile, indent=4, sort_keys=True)
